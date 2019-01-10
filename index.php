@@ -17,7 +17,7 @@
 <nav class="navbar navbar-dark">
 
 <div class="container">
-		<a href="#" class="logo">Logo</a>
+		<a href="#" class="logo">Logo 2</a>
 		
 		<div class="navbar-button"></div>
 		<div class="navbar-list">
